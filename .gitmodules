@@ -1,0 +1,3 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = git@gitee.com:spitman/gohugo-theme-ananke.git
